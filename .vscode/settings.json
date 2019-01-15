@@ -1,0 +1,6 @@
+{
+    "editor.cursorBlinking": "phase",
+    "editor.cursorWidth": null,
+    "files.autoSave": "afterDelay",
+    "files.insertFinalNewline": true
+}
